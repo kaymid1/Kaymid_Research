@@ -1,0 +1,3 @@
+-- https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-22-04
+-- Check ip : curl -4 icanhazip.com
+-- Test server : localhost
